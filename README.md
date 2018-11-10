@@ -1,5 +1,10 @@
 ##   **Ejemplos Spring Cloud - Neosuniversity**
 
+Ejecutar los proyectos en el siguiente orden
+- spring-config-demo 
+- limitservice-microservice
+
+
 El proyecto spring-config-demo carga la configuracion usando Spring Cloud Config 
 
 ------------
