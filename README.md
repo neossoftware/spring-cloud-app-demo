@@ -39,3 +39,12 @@ La configuracion de swagger consiste en lo siguiente:
             <scope>compile</scope>
         </dependency>
 ```
+
+Notas para subir la aplicacion a Pivotal Cloud Foundry
+
+    cf login
+	#loggearse en PCF
+	cf push application-name -b java_buildpack -p target/artefact
+    
+    
+    
