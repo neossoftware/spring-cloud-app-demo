@@ -15,7 +15,8 @@ El proyecto limitservice-microservice es un ejemplo que obtiene la configuracion
 
 La configuracion de swagger consiste en lo siguiente:
 
-```<dependency>
+``` 
+        <dependency>
             <groupId>com.jayway.jsonpath</groupId>
             <artifactId>json-path</artifactId>
             <scope>test</scope>
